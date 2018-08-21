@@ -1,6 +1,6 @@
 {
   "name": "break-async-iterator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Break async iterator",
   "main": "index.js",
   "scripts": {
